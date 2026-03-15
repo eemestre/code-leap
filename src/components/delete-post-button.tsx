@@ -28,7 +28,7 @@ function DeletePostButton({ handleDELETE, id }: DeletePostButtonProps) {
         </AlertDialogTrigger>
         <AlertDialogContent
           aria-describedby={undefined}
-          className="bg-card min-w-xl flex flex-col gap-8"
+          className="bg-card flex flex-col gap-8"
         >
           <AlertDialogTitle asChild>
             <h1>Are you sure you want to delete this item?</h1>

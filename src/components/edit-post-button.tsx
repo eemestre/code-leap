@@ -62,7 +62,7 @@ function EditPostButton({
         </AlertDialogTrigger>
         <AlertDialogContent
           aria-describedby={undefined}
-          className="bg-card min-w-xl flex flex-col gap-4"
+          className="bg-card flex flex-col gap-4"
         >
           <AlertDialogTitle asChild>
             <h1>Edit item</h1>
