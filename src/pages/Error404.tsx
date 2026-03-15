@@ -1,7 +1,3 @@
-interface Error404Props {
-  message: any;
-}
-
 function Error404() {
   return (
     <div className="flex w-screen h-screen justify-center items-center">
